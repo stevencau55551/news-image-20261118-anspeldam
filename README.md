@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/c/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/stevencau55551/news-image-20261118-anspeldam/rank.svg)](https://make.fun/c/news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/stevencau55551/news-image-20261118-anspeldam/reward.svg)](https://make.fun/c/news-image-20261118)
+
 # news-image-20261118 — The World in One Day
 
 One image that sums up the world news of **Wednesday 18 November 2026**,
